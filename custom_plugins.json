@@ -1,0 +1,25 @@
+[
+    {
+        "id": 87,
+        "nick": "eltictacdicta",
+        "creador": "eltictacdicta",
+        "nombre": "facturacion_base",
+        "tipo": "gratis",
+        "descripcion": "Plugin con las funciones básicas de facturación, contabilidad e informes simples.",
+        "link": "https://github.com/eltictacdicta/facturacion_base",
+        "zip_link": "https://github.com/eltictacdicta/facturacion_base/archive/master.zip",
+        "imagen": "",
+        "estable": true,
+        "version": 140,
+        "creado": "14-07-2016",
+        "ultima_modificacion": "15-01-2026",
+        "descargas": 0,
+        "oferta_hasta": null,
+        "caducidad": null,
+        "licencia": "LGPL",
+        "youtube_id": "",
+        "demo_url": "",
+        "precio": 0,
+        "instalado": false
+    }
+]
