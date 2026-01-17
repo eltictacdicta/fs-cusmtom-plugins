@@ -21,5 +21,28 @@
         "demo_url": "",
         "precio": 0,
         "instalado": false
+    },
+    {
+        "id": 88,
+        "nick": "eltictacdicta",
+        "creador": "eltictacdicta",
+        "nombre": "presupuestos_y_pedidos",
+        "tipo": "gratis",
+        "descripcion": "Ultima version de presupuestos y pedidos compatible con FSFramework y Facturascript 2017",
+        "link": "https://github.com/eltictacdicta/presupuestos_y_pedidos",
+        "zip_link": "https://github.com/eltictacdicta/presupuestos_y_pedidos/archive/master.zip",
+        "imagen": "",
+        "estable": true,
+        "version": 100,
+        "creado": "17-01-2026",
+        "ultima_modificacion": "17-01-2026",
+        "descargas": 0,
+        "oferta_hasta": null,
+        "caducidad": null,
+        "licencia": "LGPL",
+        "youtube_id": "",
+        "demo_url": "",
+        "precio": 0,
+        "instalado": false
     }
 ]
